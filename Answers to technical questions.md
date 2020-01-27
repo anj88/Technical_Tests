@@ -24,9 +24,9 @@ Yes I had to automate end to end regression test cases  for a legacy application
 for eg street name etc or can select an area or city from a drop down or so.
 
 <br>3.It would be better if the phone number is also provided in the serach screen for each restaurant along with other details
-<br>no validation is present on the search bar of the 2nd screen after the landing screen.No user friendly message is displayed
+<br>4.no validation is present on the search bar of the 2nd screen after the landing screen.No user friendly message is displayed
 
-<br>4.To view the menu user has to click and navigate to the restaruant s
+
 
 <b>Please describe yourself using JSON.</b>
 
