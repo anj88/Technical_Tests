@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26886" started-at="2020-01-26T16:44:16 EST" finished-at="2020-01-26T16:44:43 EST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26886" started-at="2020-01-26T16:44:16 EST" finished-at="2020-01-26T16:44:43 EST">
+      <class name="TestScenario1">
+        <test-method status="PASS" signature="navigation(java.lang.String)[pri:1, instance:TestScenario1@3ce1e309]" name="navigation" duration-ms="20752" started-at="2020-01-26T16:44:16 EST" data-provider="getData" finished-at="2020-01-26T16:44:37 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[AR51 1AA]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigation -->
+        <test-method status="PASS" signature="verifyRestaurant()[pri:2, instance:TestScenario1@3ce1e309]" name="verifyRestaurant" duration-ms="1485" started-at="2020-01-26T16:44:37 EST" finished-at="2020-01-26T16:44:38 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRestaurant -->
+        <test-method status="PASS" signature="verifyTabs()[pri:3, instance:TestScenario1@3ce1e309]" name="verifyTabs" duration-ms="49" started-at="2020-01-26T16:44:38 EST" finished-at="2020-01-26T16:44:38 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTabs -->
+        <test-method status="PASS" signature="searchRestaurant()[pri:4, instance:TestScenario1@3ce1e309]" name="searchRestaurant" duration-ms="2884" started-at="2020-01-26T16:44:38 EST" finished-at="2020-01-26T16:44:41 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchRestaurant -->
+        <test-method status="PASS" signature="restaurantList()[pri:5, instance:TestScenario1@3ce1e309]" name="restaurantList" duration-ms="1677" started-at="2020-01-26T16:44:41 EST" finished-at="2020-01-26T16:44:43 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- restaurantList -->
+      </class> <!-- TestScenario1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
