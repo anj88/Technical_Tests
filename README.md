@@ -13,7 +13,7 @@ integrated the git repository with jenkins .Also I would have migrated the test 
 
 <b> Scenarios Automated</b>
 <br>1.navigation() ,verifyRestaurant()  - tests the below scenario 
-<br>Scenario: Search for restaurants in an area<
+<br>Scenario: Search for restaurants in an area
   <br>Given I want food in "AR51 1AA"
   <br>When I search for restaurants
   <br>Then I should see some restaurants in "AR51 1AA" </p>
@@ -22,11 +22,11 @@ integrated the git repository with jenkins .Also I would have migrated the test 
  <br>Scenario:-Verify if the icons are present on top of the screen
  <br>Given I want food in "AR51 1AA"
  <br>When I search for restaurants
- <br>Then I should see the popular cuisines as tabs on the screen</p>
+ <br>Then I should see the popular cuisines as tabs on the next screen</p>
  
 <br>3.searchRestaurant() tests the below scenario 
  <br> Scenario: -Verify if user can search in "AR51 1AA" area
- <br>Given I want food from the restaurants in "AR51 1AA"
+ <br>Given I want food from the listed restaurants in "AR51 1AA"
  <br>When I search for food
  <br>Then I should see the restaurants providing <food>
   <br>|<b>food</b>|
